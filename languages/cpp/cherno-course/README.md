@@ -3,7 +3,7 @@
 ## 课程信息
 - 课程名称：The Cherno C++ 教程
 - 课程链接：[Bilibili](https://www.bilibili.com/video/BV1VJ411M7WR)
-- 学习进度追踪：P11
+- 学习进度追踪：P14
 
 ## 目录结构
 - basics/: C++基础知识
